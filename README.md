@@ -1,2 +1,2 @@
 # GRAB_ME
-Practice repo for learners
+Practice repo for the learners
